@@ -22,7 +22,7 @@ baseurl: /639-project # Leave this blank unless your site is located on a subpat
 url:  # Typically http://www.yourdomain.org
 collections:
   featured-cards:
-    output: true
+    output: false
 sass:
   sass_dir: assets/css/_sass
 
