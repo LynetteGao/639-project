@@ -1,14 +1,14 @@
 # Grantmaker settings
-foundation_name: The Example Foundation
+foundation_name: CS 639 Final Project
 foundation_tagline: Advancing the adoption of open source technology among progressive funders
 grant_application_login: https://www.grantinterface.com/Common/LogOn.aspx?eqs=kw_123456_EXAMPLE
 
 # Social media settings
 # Enter the full profile url (e.g. https://twitter.com/smartergiving)
-profile_twitter: https://twitter.com/examplefdn
-profile_facebook: https://facebook.com/the-example-foundation
+profile_twitter: 
+profile_facebook: 
 profile_instagram: 
-profile_github: 
+profile_github: https://github.com/LynetteGao
 
 # Site settings
 title: # Defaults to foundation_name if left blank
@@ -20,7 +20,7 @@ live: false # enter 'true' when you're ready for the site to be indexed by Googl
 
 # Jekyll settings
 baseurl: /639-project # Leave this blank unless your site is located on a subpath, e.g. /blog
-url: https://smartergiving.org # Typically http://www.yourdomain.org
+url:  # Typically http://www.yourdomain.org
 collections:
   featured-cards:
     output: true
