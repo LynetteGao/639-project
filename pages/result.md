@@ -40,8 +40,11 @@ In the second main blocks(image below), we can see that as we progress deeper in
 
 ![](https://github.com/LynetteGao/639-project/blob/LynetteGao-main-page/pages/layer2.png?raw=true)
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 
-## Person 3
+### (3) Real-time application
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Combined with pretrained - HAAR cascade, we are able to build a real-time facial expression identification task. 
+The demo can be found on the project presentation video.(xx seconds)
+
+
+As you can see, this program is able to generate a real-time prediction on the facial expression, without much lagging. This also demonstrates one of the potentials that how this model can be applied to the real life.
