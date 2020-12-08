@@ -40,3 +40,12 @@ Secondly, we tried to modify the fully connected layers to see if it can help to
 | 3 	| 72%      	| 65Mb  	|
 | 2 	| 74%      	| 62Mb  	|
 | 1 	| 72%      	| 7Mb   	|
+
+As we can see from the table above, neither a model with excessively amount of dense blocks nor  a too simple model will help the model accuracy. The sweet spot for our task is 2 fully connected layers.
+
+Once we figure out the fundamental setup of our light-vgg model, the next step is hyperparameter tuning.  For example, we tuned different combinations of learning rate and optimizer in order to achieve the best learning rate decay setup. The final best setup is to use RMsprop with learning rate of 1e-5. In addition, batch normalization is used with a batch size of 64.
+Finally, we trained the models with enough epochs until convergence. At this step, in order to prevent overfitting, we added L2 regularization and dropout. 
+
+
+![Cannot display](https://github.com/LynetteGao/639-project/blob/LynetteGao-main-page/pages/before.png?raw=true 'Before')
+![Cannot display](https://github.com/LynetteGao/639-project/blob/LynetteGao-main-page/pages/after.png?raw=true 'After')
