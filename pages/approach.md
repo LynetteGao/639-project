@@ -12,7 +12,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 With a basic understanding of how deep learning network works from our previous step, we decided to take a look at the very-deep network in order to further improve our model’s accuracy. Therefore, in the second step of our project, we adopted one of the state-of-the-art image classification  framework – VGG16. VGG16 is proposed by University of Oxford in the paper “Very Deep Convolutional Networks for Large-Scale Image Recognition”, which is the winner of 2014 ImageNet competition.
 
-![Cannot display](https://github.com/LynetteGao/639-project/blob/LynetteGao-main-page/pages/vgg16.png)
+![Cannot display](https://github.com/LynetteGao/639-project/blob/LynetteGao-main-page/pages/vgg16.png?raw=true)
 
 Above is the architecture of VGG 16. The fundamental idea behind VGG is to pass the input through a stack of small convolution layers, followed by maxpooling and fully connected layer at the end. 
 
