@@ -18,7 +18,15 @@ Above is the architecture of VGG 16. The fundamental idea behind VGG is to pass 
 
 We deployed this VGG-16 architecture as our benchmark model and it achieves an accuracy of 68%. However, there is one major drawback of this setup. Due to the the depth of VGG and number of fully-connected nodes, the resulting model is over 533 MB. This makes it super slow to deploy when it comes to a real-time detection  task.
 
+Therefore, we decided to propose a model based on vgg, but more lightweight and at the same time with an improved accuracy. 
 
-## Person 3
+As a reminder, the original purpose of the VGG is to fit into ImageNet, a dataset of over 14 million high-resolution images, and is able to classify 22,000 categories. 
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+However, in our case, we only need segmentation of 7 facial expression classes. Therefore, we decided to design our own version of modified vgg that it’s faster and smaller, thus more suitable for the real time facial expression detection task.
+
+## Light-VGG
+
+There are 4 major steps for our training:
+
+First of all, we tried to lighten the weight of the model by reducing the number of CNN stacks. As we can see from the table below, when we reduce the number of CNN layers from 5 to 2, not only the test accuracy increases a bit, but also the size of the model shrinks tremendously. Given the results from this trial, we decided to  
+
