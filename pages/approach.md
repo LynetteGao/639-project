@@ -31,3 +31,12 @@ There are 4 major steps for our training:
 First of all, we tried to lighten the weight of the model by reducing the number of CNN stacks. As we can see from the table below, when we reduce the number of CNN layers from 5 to 2, not only the test accuracy increases a bit, but also the size of the model shrinks tremendously. Given the results from this trial, we decided to pick 2 as our initial layers of cnn stacks.
 
 ![Cannot display](https://github.com/LynetteGao/639-project/blob/LynetteGao-main-page/pages/table1.png?raw=true)
+
+Secondly, we tried to modify the fully connected layers to see if it can help to improve the accuracy from the previous step. We conducted experiments on different number of dense blocks.
+
+|   	| Accuracy 	| Size  	|
+|---	|----------	|-------	|
+| 4 	| 71%      	| 262Mb 	|
+| 3 	| 72%      	| 65Mb  	|
+| 2 	| 74%      	| 62Mb  	|
+| 1 	| 72%      	| 7Mb   	|
