@@ -1,5 +1,5 @@
 ---
-header_title: Mission
+header_title: Discussion
 header_intro: 
 layout: page
 permalink: /:basename/
