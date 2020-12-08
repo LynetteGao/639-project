@@ -47,5 +47,9 @@ Once we figure out the fundamental setup of our light-vgg model, the next step i
 Finally, we trained the models with enough epochs until convergence. At this step, in order to prevent overfitting, we added L2 regularization and dropout. 
 
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/LynetteGao/639-project/blob/LynetteGao-main-page/pages/before.png?raw=true)  |  ![](https://github.com/LynetteGao/639-project/blob/LynetteGao-main-page/pages/after.png?raw=true)
+
 ![Cannot display](https://github.com/LynetteGao/639-project/blob/LynetteGao-main-page/pages/before.png?raw=true 'Before')
 ![Cannot display](https://github.com/LynetteGao/639-project/blob/LynetteGao-main-page/pages/after.png?raw=true 'After')
