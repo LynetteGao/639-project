@@ -1,10 +1,19 @@
 ---
-header_title: About
-header_intro: Lorem ipsum dolor sit amet, vel feugiat nunc. Non libero ornare lectus, id in ante nam erat sollicitudin ut, ac mi. Adipisicing at euismod ac. Id eleifend massa morbi, odio dis, mauris elit facilisi. Ultrices purus, leo suscipit lorem nulla vitae hendrerit nam, ut non.
+header_title: Result
+header_intro: At the end, we have a model of 78% test accuracy and as small as 62 Mb.
 layout: page
 permalink: /:basename/
 ---
-## Person 1
+### (1) Example Prediction
+
+Now let's see several predictions from our model.
+
+![](https://github.com/LynetteGao/639-project/blob/LynetteGao-main-page/pages/happy.png?raw=true)
+
+![](https://github.com/LynetteGao/639-project/blob/LynetteGao-main-page/pages/surprise.png?raw=true)
+
+![](https://github.com/LynetteGao/639-project/blob/LynetteGao-main-page/pages/anger.png?raw=true)
+
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 
