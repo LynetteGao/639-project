@@ -55,4 +55,5 @@ At the end, we trained the model for 60 epochs until convergence. Below is the *
 
 
 ![](https://github.com/LynetteGao/639-project/blob/LynetteGao-main-page/pages/architecture.png?raw=true)
+
                     Model architecture of Light-vgg 
