@@ -14,7 +14,7 @@ profile_github: https://github.com/LynetteGao
 # Site settings
 title: # Defaults to foundation_name if left blank
 description: > # this means to start on the next line (which needs to be indented two spaces)"
-  Insert project overview here
+  Group members + Insert project overview here 
 # Google settings
 live: false # enter 'true' when you're ready for the site to be indexed by Google and other web crawlers
 
