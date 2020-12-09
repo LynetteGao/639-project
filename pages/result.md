@@ -25,6 +25,10 @@ Target: 'Surprise'
 
 Prediction: {**'Surprise': 0.8675977**, 'Fear': 0.022418853, 'Disgust': 0.011015029, 'Happiness': 0.0014342658, 'Sadness': 0.060660016, 'Anger': 0.036131866, 'Neutral': 0.0007421497}
 
+Target: 'Sadness'
+![](https://github.com/LynetteGao/639-project/blob/LynetteGao-main-page/pages/sadness.jpg?raw=true)
+
+{'Surprise': 0.020001482, 'Fear': 0.00813411, 'Disgust': 0.03032325, 'Happiness': 0.021574635, 'Sadness': 0.44737974, 'Anger': 0.009679649, 'Neutral': 0.4629071}
 
 
 From the example output above, we can tell that
