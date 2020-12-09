@@ -1,14 +1,7 @@
 ---
-header_title: Contact
-address_line_one: 1234 Philanthropy Rd.
-address_line_two: 
-city: Bend
-state: OR
-zip: 97701
-phone: 541.555.1212
-fax: 541.555.1214
-email: hello@example.com
-layout: contact
+header_title: Reference
+header_intro: This page includes references and the links to our project's material
+layout: page
 permalink: /:basename/
 ---
 <!-- Your entries above cannot contain colons -->
@@ -19,3 +12,19 @@ permalink: /:basename/
 <!-- address_line_one: SomeBank, ATTN: Chris Smith -->
 <!-- GOOD -->
 <!-- address_line_one: SomeBank, ATTN Chris Smith -->
+Brownlee, J. (2019, July 05). How to Visualize Filters and Feature Maps in Convolutional Neural Networks. Retrieved December 09, 2020, from https://machinelearningmastery.com/how-to-visualize-filters-and-feature-maps-in-convolutional-neural-networks/
+
+X. Zhang, J. Zou, K. He and J. Sun, "Accelerating Very Deep Convolutional Networks for Classification and Detection," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 38, no. 10, pp. 1943-1955, 1 Oct. 2016, doi: 10.1109/TPAMI.2015.2502579.
+
+Hassan, M. (2018, November 21). VGG16 - Convolutional Network for Classification and Detection. Retrieved December 09, 2020, from https://neurohive.io/en/popular-networks/vgg16/
+
+
+Links:
+
+1. [Presentation video](https://drive.google.com/file/d/1It5W_U9FhxjvdFRcfHL4kpkT3KWDyX7G/view?usp=sharing)
+
+2. [Slide](https://drive.google.com/file/d/1ZjU7c_10RGBX461V8qI8p1d7VoXI5lLD/view?usp=sharing)
+
+3. [Project Proposal](https://lynettegao.github.io/Facial-Expression-Recognition/)
+
+4. [Code] (https://github.com/LynetteGao/Facial-Expression-Recognition)
