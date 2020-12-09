@@ -31,7 +31,7 @@ Target: 'Sadness'
 {'Surprise': 0.020001482, 'Fear': 0.00813411, 'Disgust': 0.03032325, 'Happiness': 0.021574635, **'Sadness': 0.44737974**, 'Anger': 0.009679649, **'Neutral': 0.4629071**}
 
 
-As we can see from the sample output above, in most of the conditions, our model is able to produce a correct output with a high confidence score. However, there exist some extreme cases(e.g most of the facial features are covered) our model fail to produce the most accurate prediction.
+**As we can see from the sample output above, in most of the conditions, our model is able to produce a correct output with a high confidence score.** However, there exist some extreme cases(e.g most of the facial features are covered) where our model fails to produce the most accurate prediction.
 
 ### (2) Feature map visualization
 
@@ -48,8 +48,9 @@ In the second main blocks(image below), we can see that as we progress deeper in
 
 ### (3) Real-time application
 
-Combined with pretrained - HAAR cascade, we are able to build a real-time facial expression identification task. 
-The demo can be found on the project presentation video.(xx seconds)
+Combined with a pretrained HAAR cascade as a face detector(available in openCV), we are able to build a real-time facial expression program. In this case, the user is able to use their webcam as a detector for getting the real-time facial images.
+
+The demo can be found on the [project presentation video](https://drive.google.com/file/d/1It5W_U9FhxjvdFRcfHL4kpkT3KWDyX7G/view?usp=sharing).(5'57" - 6'20")
 
 
-As you can see, this program is able to generate a real-time prediction on the facial expression, without much lagging. This also demonstrates one of the potentials that how this model can be applied to the real life.
+As you can see, this program is able to generate a real-time prediction on the facial expression without much lagging. This also demonstrates the potential that how this model can be applied to the real life.
