@@ -31,17 +31,17 @@ Target: 'Sadness'
 {'Surprise': 0.020001482, 'Fear': 0.00813411, 'Disgust': 0.03032325, 'Happiness': 0.021574635, **'Sadness': 0.44737974**, 'Anger': 0.009679649, **'Neutral': 0.4629071**}
 
 
-As we can see from the sample output above, 
+As we can see from the sample output above, in most of the conditions, our model is able to produce a correct output with a high confidence score. However, there exist some extreme cases(e.g most of the facial features are covered) our model fail to produce the most accurate prediction.
 
 ### (2) Feature map visualization
 
-In order to better understand the effect of each convolution layer, we decided to visualize the activation maps which capture the the result of applyting the filters to the input.
+In order to better understand the effect of each convolution layer, we decided to visualize the activation maps which capture the the result of filters of each layer.
 
 We can see that the result of applying the filters in the first convolutional layer is a lot of versions of the facial image with different features highlighted. For example, some highlight lines, other focus on the general foreground features or the detailed features, like eyes and mouths.
 
 ![](https://github.com/LynetteGao/639-project/blob/LynetteGao-main-page/pages/layer1.png?raw=true)
 
-In the second main blocks(image below), we can see that as we progress deeper into the model, the feature maps show less and less detail. This pattern was to be expected, as the model abstracts the features from the image into more general concepts that can be used to make a classification. However, we generally lose the ability to interpret these deeper feature maps, which is one of the drawbacks of deep learning models.
+In the second main blocks(image below), we can see that as we progress deeper into the model, the feature maps show less and less detail. This pattern was to be expected, as the model abstracts the features from the image into more general concepts that can be used to make a classification. However, in this case, we lose the ability to interpret these deeper feature maps.
 
 ![](https://github.com/LynetteGao/639-project/blob/LynetteGao-main-page/pages/layer2.png?raw=true)
 
