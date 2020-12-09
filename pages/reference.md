@@ -27,4 +27,4 @@ Links:
 
 3. [Project Proposal](https://lynettegao.github.io/Facial-Expression-Recognition/)
 
-4. [Code] (https://github.com/LynetteGao/Facial-Expression-Recognition)
+4. [Code](https://github.com/LynetteGao/Facial-Expression-Recognition)
