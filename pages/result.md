@@ -31,7 +31,7 @@ Target: 'Sadness'
 {'Surprise': 0.020001482, 'Fear': 0.00813411, 'Disgust': 0.03032325, 'Happiness': 0.021574635, **'Sadness': 0.44737974**, 'Anger': 0.009679649, **'Neutral': 0.4629071**}
 
 
-From the example output above, we can tell that
+As we can see from the sample output above, 
 
 ### (2) Feature map visualization
 
