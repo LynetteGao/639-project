@@ -14,9 +14,11 @@ permalink: /:basename/
 <!-- address_line_one: SomeBank, ATTN Chris Smith -->
 Brownlee, J. (2019, July 05). How to Visualize Filters and Feature Maps in Convolutional Neural Networks. Retrieved December 09, 2020, from https://machinelearningmastery.com/how-to-visualize-filters-and-feature-maps-in-convolutional-neural-networks/
 
-X. Zhang, J. Zou, K. He and J. Sun, "Accelerating Very Deep Convolutional Networks for Classification and Detection," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 38, no. 10, pp. 1943-1955, 1 Oct. 2016, doi: 10.1109/TPAMI.2015.2502579.
-
 Hassan, M. (2018, November 21). VGG16 - Convolutional Network for Classification and Detection. Retrieved December 09, 2020, from https://neurohive.io/en/popular-networks/vgg16/
+
+Shashank Gupta. "Practical Use Cases of Facial Emotion Detection Using Artificial Intelligence", DZone AI, 2018.
+
+X. Zhang, J. Zou, K. He and J. Sun, "Accelerating Very Deep Convolutional Networks for Classification and Detection," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 38, no. 10, pp. 1943-1955, 1 Oct. 2016, doi: 10.1109/TPAMI.2015.2502579.
 
 
 Links:
