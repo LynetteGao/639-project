@@ -13,4 +13,4 @@ permalink: /:basename/
   <i class="fa fa-circle fa-stack-2x"></i>
   <i class="fa fa-download fa-stack-1x fa-inverse"></i>
 </span>  -->
-<a href="\pages\639_project_proposal.pdf">&nbsp;Example (pdf)</a>
+<a href="/pages/639_project_proposal.pdf">Example (pdf)</a>
