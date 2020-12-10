@@ -14,7 +14,11 @@ permalink: /:basename/
 <!-- address_line_one: SomeBank, ATTN Chris Smith -->
 Brownlee, J. (2019, July 05). How to Visualize Filters and Feature Maps in Convolutional Neural Networks. Retrieved December 09, 2020, from https://machinelearningmastery.com/how-to-visualize-filters-and-feature-maps-in-convolutional-neural-networks/
 
+C. H. Setjo, B. Achmad and Faridah, "Thermal image human detection using Haar-cascade classifier," 2017 7th International Annual Engineering Seminar (InAES), Yogyakarta, 2017, pp. 1-6, doi: 10.1109/INAES.2017.8068554.
+
 Hassan, M. (2018, November 21). VGG16 - Convolutional Network for Classification and Detection. Retrieved December 09, 2020, from https://neurohive.io/en/popular-networks/vgg16/
+
+J. Redmon, S. Divvala, R. Girshick and A. Farhadi, "You Only Look Once: Unified, Real-Time Object Detection," 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Las Vegas, NV, 2016, pp. 779-788, doi: 10.1109/CVPR.2016.91.
 
 Shashank Gupta. "Practical Use Cases of Facial Emotion Detection Using Artificial Intelligence", DZone AI, 2018.
 

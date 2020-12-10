@@ -1,6 +1,6 @@
 ---
 header_title: State-of-art
-header_intro: Lorem ipsum dolor sit amet, vel feugiat nunc. Non libero ornare lectus, id in ante nam erat sollicitudin ut, ac mi. Adipisicing at euismod ac. Id eleifend massa morbi, odio dis, mauris elit facilisi. Ultrices purus, leo suscipit lorem nulla vitae hendrerit nam, ut non.
+header_intro: Current deep learning networks useful in the deep facial expression recognition task include CNN, DBN, DAE, RNN, and GAN. The algorithms that are good at the face detection task include Haar Cascade and YOLO.
 layout: page
 permalink: /:basename/
 ---
