@@ -1,12 +1,16 @@
 ---
 header_title: Approach
-header_intro: Lorem ipsum dolor sit amet, vel feugiat nunc. Non libero ornare lectus, id in ante nam erat sollicitudin ut, ac mi. Adipisicing at euismod ac. Id eleifend massa morbi, odio dis, mauris elit facilisi. Ultrices purus, leo suscipit lorem nulla vitae hendrerit nam, ut non.
+header_intro:
 layout: page
 permalink: /:basename/
 ---
 ## Phase 1: CNN
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Firstly, we took a look at a very fundamental CNN model. This model had much simpler architecture than state-of-art models. It turned out to be composed of two convolutional layers, one maxpooling layer, and one fully connected layer. Each convolutional layer had 128 filteres, a kernel with size of 3, and ReLU activation. After some tuning, a drop-out layer with a frequency of 0.1 was added between the maxpooling layer and the fully connected layer. The model cost **200 epoches** to train until convergence and its test accuracy turned out to be **0.65**.
+
+We tried some other ways of tuning, but those did not seem to be effective. We added L1 regularizer in each convolutional layer. The effect of overfitting was indeed reduced, but the test accuracy was decreased to 0.61, which was not we want. Also, we tried to change the optimizer from Adadelta to Adam, but this largely amplified overfitting.
+
+The best test accuracy can be achieved by this model was **0.65**, but this was not very satisfying. We expected that some other models could perform better.
 
 ## Phase 2: VGG
 
