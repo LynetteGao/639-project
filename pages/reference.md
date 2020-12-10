@@ -27,6 +27,6 @@ Links:
 
 2. [Slide](https://drive.google.com/file/d/1ZjU7c_10RGBX461V8qI8p1d7VoXI5lLD/view?usp=sharing)
 
-3. [Project Proposal](https://lynettegao.github.io/Facial-Expression-Recognition/)
+3. [Project Proposal](https://drive.google.com/file/d/1a3wpZePSLtKuih9p7OXOqY_e7M4_CwU0/view?usp=sharing)
 
 4. [Code](https://github.com/LynetteGao/Facial-Expression-Recognition)
