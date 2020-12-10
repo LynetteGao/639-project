@@ -8,7 +8,7 @@ permalink: /:basename/
 
 The dataset we used was the Real-world Affective Face Database (RAF-DB). RAF-DB contains 29672 diverse facial images downloaded from the Internet. These images are mannullay given labels. These labels include 7 basic facial expressions - surprise, fear, disgust, happiness, sadness, anger, and neutral - as well as 11 compound facial expression labels. Considering the complexity and the goal of our project, we thought the compound facial expression labels were not necessary for our project and decided to use only basic facial expression labels. We got the authorization for the use of this database from its authors.
 
-(Image to put here)
+![](https://github.com/LynetteGao/639-project/blob/LynetteGao-main-page/pages/dataset.PNG?raw=true)
 
 ## Data Pre-processing
 
