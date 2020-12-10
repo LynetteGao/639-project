@@ -18,6 +18,8 @@ Hassan, M. (2018, November 21). VGG16 - Convolutional Network for Classification
 
 Shashank Gupta. "Practical Use Cases of Facial Emotion Detection Using Artificial Intelligence", DZone AI, 2018.
 
+S. Li and W. Deng, "Deep Facial Expression Recognition: A Survey," in IEEE Transactions on Affective Computing, doi: 10.1109/TAFFC.2020.2981446.
+
 X. Zhang, J. Zou, K. He and J. Sun, "Accelerating Very Deep Convolutional Networks for Classification and Detection," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 38, no. 10, pp. 1943-1955, 1 Oct. 2016, doi: 10.1109/TPAMI.2015.2502579.
 
 
