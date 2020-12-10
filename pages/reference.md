@@ -1,5 +1,5 @@
 ---
-header_title: Reference
+header_title: Reference & Links
 header_intro: This page includes references and the links to our project's material
 layout: page
 permalink: /:basename/
@@ -12,6 +12,7 @@ permalink: /:basename/
 <!-- address_line_one: SomeBank, ATTN: Chris Smith -->
 <!-- GOOD -->
 <!-- address_line_one: SomeBank, ATTN Chris Smith -->
+### Reference:
 Brownlee, J. (2019, July 05). How to Visualize Filters and Feature Maps in Convolutional Neural Networks. Retrieved December 09, 2020, from https://machinelearningmastery.com/how-to-visualize-filters-and-feature-maps-in-convolutional-neural-networks/
 
 C. H. Setjo, B. Achmad and Faridah, "Thermal image human detection using Haar-cascade classifier," 2017 7th International Annual Engineering Seminar (InAES), Yogyakarta, 2017, pp. 1-6, doi: 10.1109/INAES.2017.8068554.
@@ -27,7 +28,7 @@ S. Li and W. Deng, "Deep Facial Expression Recognition: A Survey," in IEEE Trans
 X. Zhang, J. Zou, K. He and J. Sun, "Accelerating Very Deep Convolutional Networks for Classification and Detection," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 38, no. 10, pp. 1943-1955, 1 Oct. 2016, doi: 10.1109/TPAMI.2015.2502579.
 
 
-Links:
+### Links:
 
 1. [Presentation video](https://drive.google.com/file/d/1It5W_U9FhxjvdFRcfHL4kpkT3KWDyX7G/view?usp=sharing)
 
