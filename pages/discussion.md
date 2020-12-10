@@ -19,7 +19,7 @@ These statistics demonstrate a good potential of embedding our devised model int
 # Pros
 Here are some of the advantages of our light-vgg model:
 1.	The running time is good compared to other models. It’s faster and smaller, thus more suitable for the real time facial expression detection.
-2.	It can achieve a relatively satisfied accuracy even with such a shallow network
+2.	It can achieve a relatively satisfying accuracy even with such a shallow network.
 3.	It is easy to implement and train since it does not need expensive hardware.
 
 # Cons
