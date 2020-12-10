@@ -10,6 +10,7 @@ The dataset we used was the Real-world Affective Face Database (RAF-DB). RAF-DB 
 
 ![](https://github.com/LynetteGao/639-project/blob/LynetteGao-main-page/pages/dataset.PNG?raw=true)
 
+![](https://github.com/LynetteGao/639-project/blob/LynetteGao-main-page/pages/capture.PNG?raw=true)
 ## Data Pre-processing
 
 RAF-DB has 15339 facial images among which each is labeled with only one of seven basic facial expressions. These images are divided into 12271 training samples and 3068 testing samples. Firstly, we resized each image into 100 x 100 pixels. Then we applied Gaussian smoothing to remove noise as well as normalization. At last, we converted the processed images and the label information into numpy arrays in the shapes of (size of the datasets, width, height, 3) and (size of the datasets, 7).
